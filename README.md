@@ -1,3 +1,3 @@
 # k8s
 
-Just me playing around with K8s
+Just playing around with K8s to get a better understanding of it.
